@@ -8,10 +8,8 @@
 
 - **Frontend:** HTML, CSS, JavaScript (React or basic JS)
 - **Backend:** Python (Flask/Django) or Node.js (Express)
-- **Database:** MongoDB / Firebase / SQLite
+- **Database:** MongoDB 
 - **Notifications:** Browser alerts or email reminders
-- **Authentication:** Firebase Auth / JWT (if implemented)
-- **Deployment:** Heroku / Netlify / Firebase Hosting
 
 
 ### 🎯 Key Features
