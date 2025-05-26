@@ -1,5 +1,5 @@
 
-### 🩺 MedMemo – Personal Medical Record & Medication Reminder App
+### 🩺 MedMemo 
 
 **MedMemo** is a user-centric medical management application designed to help patients keep track of their health records and medication schedules. The platform allows users to log symptoms, upload medical documents, track prescription history, and receive timely reminders for taking medications. By organizing personal healthcare data in one place, MedMemo empowers users to manage their health more effectively and independently.
 
