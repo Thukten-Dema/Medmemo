@@ -6,8 +6,8 @@
 
 ### ⚙️ Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript (React or basic JS)
-- **Backend:** Python (Flask/Django) or Node.js (Express)
+- **Frontend:** HTML, CSS
+- **Backend:** Python (Flask) or Node.js (Express)
 - **Database:** MongoDB 
 - **Notifications:** Browser alerts or email reminders
 
